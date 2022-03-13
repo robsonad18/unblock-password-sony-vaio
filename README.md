@@ -1,5 +1,5 @@
 # unblock-password-sony-vaio
-Desbloquando senha da bios no Sony Vaio
+Desbloquear senha da bios no Sony Vaio
 
 # Requisitos
  - Instalar o python
